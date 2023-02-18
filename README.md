@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm focused on **Malware Detection**, **Vulnerability analysis** and **System programing**.
+
 projects:
   - [rs-shellcode](https://github.com/b1tg/rs_shellcode) Another shellcode runner
   - [cobaltstrike-beacon-rust](https://github.com/b1tg/cobaltstrike-beacon-rust) CobaltStrike beacon in rust
