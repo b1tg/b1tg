@@ -3,10 +3,13 @@
 I'm focused on **Malware Detection**, **Vulnerability analysis** and **System programing**.
 
 projects:
-  - [rs-shellcode](https://github.com/b1tg/rs_shellcode) Another shellcode runner
+
   - [cobaltstrike-beacon-rust](https://github.com/b1tg/cobaltstrike-beacon-rust) CobaltStrike beacon in rust
+  - [CVE-2023-38831-winrar-exploit](https://github.com/b1tg/CVE-2023-38831-winrar-exploit) CVE-2023-38831 winrar exploit generator
+  - [github-hosts-ebpf](https://github.com/b1tg/github-hosts-ebpf) github-hosts power by eBPF
   - [pickup](https://github.com/b1tg/pickup) Copy files to clipboard from command line
-  - [github-hosts-ebpf](https://github.com/b1tg/github-hosts-ebpf) github-hosts power by eBPF 
+  - [rs-shellcode](https://github.com/b1tg/rs_shellcode) Another shellcode runner
+ 
 <!--
 **b1tg/b1tg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
